@@ -1,0 +1,8 @@
+R SQUARTE MODELS: 
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  2.159  14.910  17.710  20.460  24.120  50.070 
+
+ RMSE SQUARTE MODELS: 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  18.64   19.94   21.41   21.66   23.53   25.59 

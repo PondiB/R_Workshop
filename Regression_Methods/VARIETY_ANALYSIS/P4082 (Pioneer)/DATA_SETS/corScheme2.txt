@@ -1,0 +1,30 @@
+correlation Matrix
+SEM_TRATADAS.NO	SEM_TRATADAS.SI*
+DIST_SURCOS*
+DIST_PLANTAS*
+CULT_ANT.Arroz	CULT_ANT.Maiz*
+POBLACION_20DIAS*
+TIPO_MATERIAL.Hibrido	TIPO_MATERIAL.OGM*
+ALMACENAMIENTO_FINCA.SI	ALMACENAMIENTO_FINCA.NO*
+ContMalQui*
+ContPlaQui*
+CanFerQui*
+PENDIENTE*
+PH*
+MAT_ORGANICA.BAJA	DRE_INTERN.LENTO A MUY LENTO	MAT_ORGANICA.MEDIA*	DRE_INTERN.BUENO
+PROF_EFEC*
+PText.Ar*
+PText.ArA*
+PText.F*
+PText.FA*
+PText.FAr*
+PText.FrL*
+Sol_Ener_Accu_Veg	Rhum_Avg_Veg	Sol_Ener_Accu_For	Rain_Accu_Mad	Rain_10_Freq_Mad	Temp_Min_Avg_Veg*	Temp_Avg_Veg	Rhum_sd_Veg	Temp_Max_Avg_For	Temp_Min_Avg_For	Temp_Avg_For	Diurnal_Range_Avg_Mad
+Rhum_Avg_Mad	Diurnal_Range_Avg_Veg*	Temp_Max_Avg_Veg	Temp_Max_Avg_For	Diurnal_Range_Avg_For	Temp_Max_Avg_Mad	Temp_Avg_Mad
+Rain_Accu_For	Rain_10_Freq_For	Rhum_Avg_For	Rhum_sd_For*
+Temp_Min_Avg_Mad*
+Sol_Ener_Accu_Mad*
+PText.A	Rhum_sd_Mad*
+TotN*
+Totp*
+Totk*

@@ -1,0 +1,39 @@
+List of variables removed:
+
+VARIABLES WITH VARIANCE NEAR TO ZERO:
+
+Rhum_Avg_Veg
+Rhum_sd_For
+TotN
+
+BY CORRELATION:
+
+Temp_Max_Avg_Mad
+Temp_Avg_Mad
+Diurnal_Range_Avg_Mad
+Temp_Max_Avg_For
+Temp_Max_Avg_Veg
+Temp_Avg_Veg
+Rain_Accu_For
+Temp_Avg_For
+Diurnal_Range_Avg_For
+DRE_INTERN.BUENO
+DRE_INTERN.LENTO A MUY LENTO
+Rhum_Avg_Mad
+Rain_10_Freq_For
+Rhum_Avg_Veg
+Rain_10_Freq_Veg
+Diurnal_Range_Avg_Veg
+TIPO_MATERIAL.Hibrido
+Rhum_Avg_For
+Temp_Min_Avg_Veg
+Temp_Min_Avg_For
+Sol_Ener_Accu_Veg
+DRENAJE.FALSO
+Rain_Accu_Mad
+Rhum_sd_Veg
+MAT_ORGANICA.BAJA
+SEM_TRATADAS.NO
+CULT_ANT.Arroz
+ALMACENAMIENTO_FINCA.SI
+COLOR_ENDOSPERMO.Blanco

@@ -1,0 +1,41 @@
+List of variables removed:
+
+VARIABLES WITH VARIANCE NEAR TO ZERO:
+
+CULT_ANT
+TIPO_MATERIAL
+Temp_Max_Avg_For
+Temp_Min_Avg_Mad
+Totk
+
+BY CORRELATION:
+
+Diurnal_Range_Avg_Mad
+Temp_Max_Avg_For
+Sol_Ener_Accu_Veg
+Temp_Max_Avg_Veg
+Temp_Max_Avg_Mad
+Diurnal_Range_Avg_For
+Rhum_Avg_Veg
+Sol_Ener_Accu_For
+Rain_10_Freq_Veg
+Rain_Accu_Veg
+Temp_Avg_Mad
+Temp_Avg_Veg
+Rhum_Avg_Mad
+Rhum_Avg_For
+Temp_Avg_For
+Rhum_sd_Veg
+Rain_Accu_Mad
+Rain_10_Freq_For
+Rain_Accu_For
+Rain_10_Freq_Mad
+Temp_Min_Avg_For
+TIPO_MATERIAL.Hibrido
+PText.A
+DRE_INTERN.BUENO
+DRE_INTERN.LENTO A MUY LENTO
+CULT_ANT.Arroz
+MAT_ORGANICA.BAJA
+SEM_TRATADAS.NO
+ALMACENAMIENTO_FINCA.SI
